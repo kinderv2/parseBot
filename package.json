@@ -1,0 +1,25 @@
+{
+  "name": "bot_parser_price",
+  "version": "1.0.0",
+  "description": "Parsing price from the site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "parser",
+    "price",
+    "telegraf"
+  ],
+  "author": "Kinderwond",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "needle": "^2.4.0",
+    "node-xlsx": "^0.15.0",
+    "telegraf": "^3.36.0",
+    "webpage": "^0.3.0",
+    "xlsx": "^0.15.5"
+  }
+}
